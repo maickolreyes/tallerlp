@@ -1,0 +1,37 @@
+img {
+    width: 30rem;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image: url('https://i.gifer.com/OyF7.gif');
+}
+
+div{
+    width: 20rem;
+    height: 20rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 8rem;
+}
+
+#Caja1{
+    background-color: aqua;
+}
+
+#Caja2{
+    background-color: green;
+}
+
+#Caja3{
+    background-color: aquamarine;
+}
+
+#Caja4{
+    background-color: fuchsia;
+}
