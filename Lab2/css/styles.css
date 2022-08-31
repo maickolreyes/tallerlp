@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav{
+    width: 100vw;
+    height: 10vh;
+    background-color: #85D4B7;
+}
+
+#logo{
+    width: 30vw;
+    height: 10vh;
+    float: left;
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#menu{
+    padding-top: 3vh;
+    width: 70vw;
+    height: 10vh;
+    float: left;
+}
+
+#menu li{
+    float: left;
+    list-style: none;
+}
+
+#menu li a{
+    display: block;
+    padding-left: 10vh;
+    color: #fff;
+    text-decoration: none;
+}
+
+#vegan {
+    width: 100vw;
+    height: 80vh;
+    background-color: #6dccaa;
+    background-image: url("../img/vegan.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: #6dccaa;
+    color: #fff;
+}
+
+#direccion{
+    width: 50vw;
+    height: 10vh;
+    float: left;
+}
+
+#redes{
+    width: 50vw;
+    height: 10vh;
+    float: right;
+}
+
+#redes ul li{
+    display: inline;
+}
+
+#redes a:hover{
+    background-color: black;
+}
+
+
+#couching {
+    width: 100vw;
+    height: 90vh;
+    background-color: #ffffff;
+}
+
